@@ -1,0 +1,10 @@
+build/
+.vscode/
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.dll.a
+*.log
+.env
